@@ -1,2 +1,0 @@
-Depth(m) Velocity(m/s) BedSize(mm) HabitatSuitability
-2.1	0.2	19	0.48
